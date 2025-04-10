@@ -1,0 +1,58 @@
+{
+  "1742468543664": {
+    "originalName": "Firma_mapa.png",
+    "fileName": "1742468543664.png",
+    "size": 3055,
+    "url": "${appResourceUrl}/images/widget_8/1742468543664.png",
+    "created": 1742468543664,
+    "resourcesPrefix": "images/widget_8",
+    "referredIds": [],
+    "originId": "1742468543664",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 196,
+    "originalHeight": 117
+  },
+  "1742576047295": {
+    "originalName": "Tierra.png",
+    "fileName": "1742576047295.png",
+    "size": 1028870,
+    "url": "${appResourceUrl}/images/widget_32/1742576047295.png",
+    "created": 1742576047295,
+    "resourcesPrefix": "images/widget_32",
+    "referredIds": [],
+    "originId": "1742576047295",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1163,
+    "originalHeight": 499
+  },
+  "1742576618272": {
+    "originalName": "Banner.png",
+    "fileName": "1742576618272.png",
+    "size": 7288,
+    "url": "${appResourceUrl}/images/widget_32/1742576618272.png",
+    "created": 1742576618272,
+    "resourcesPrefix": "images/widget_32",
+    "referredIds": [],
+    "originId": "1742576618272",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 606,
+    "originalHeight": 147
+  },
+  "1742577406976": {
+    "originalName": "Banner.png",
+    "fileName": "1742577406976.png",
+    "size": 9792,
+    "url": "${appResourceUrl}/images/widget_32/1742577406976.png",
+    "created": 1742577406976,
+    "resourcesPrefix": "images/widget_32",
+    "referredIds": [],
+    "originId": "1742577406976",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 482,
+    "originalHeight": 128
+  }
+}

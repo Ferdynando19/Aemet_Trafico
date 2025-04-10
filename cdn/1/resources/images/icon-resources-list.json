@@ -1,0 +1,61 @@
+{
+  "1742570393106.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1742570393106.png",
+    "properties": {
+      "filename": "1742570393106.png",
+      "originalName": "visibility_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1742570393106.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1742570475617.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1742570475617.png",
+    "properties": {
+      "filename": "1742570475617.png",
+      "originalName": "map_search_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1742570475617.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1742571581911.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1742571581911.png",
+    "properties": {
+      "filename": "1742571581911.png",
+      "originalName": "feature_search_24dp_000000_FILL0_wght400_GRAD0_opsz24.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1742571581911.png",
+      "inlineSvg": false
+    }
+  },
+  "1742577474785.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1742577474785.png",
+    "properties": {
+      "filename": "1742577474785.png",
+      "originalName": "menu_24dp_255B78_FILL0_wght400_GRAD0_opsz24.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1742577474785.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1742577761957.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1742577761957.png",
+    "properties": {
+      "filename": "1742577761957.png",
+      "originalName": "routine_24dp_255B78_FILL0_wght400_GRAD0_opsz24.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1742577761957.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1742577775255.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1742577775255.png",
+    "properties": {
+      "filename": "1742577775255.png",
+      "originalName": "directions_car_24dp_255B78_FILL0_wght400_GRAD0_opsz24.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1742577775255.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
